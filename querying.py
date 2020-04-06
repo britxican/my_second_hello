@@ -8,6 +8,8 @@ def main():
     
     query = 'LaCucarachaReloaded'
     print(query)
+    
+    URL = 'www.someRandomStuff.com'
 
 
 if __name__ =='__main__':
